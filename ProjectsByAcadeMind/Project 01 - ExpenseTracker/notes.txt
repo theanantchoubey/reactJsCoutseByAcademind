@@ -1,0 +1,7 @@
+References - 
+
+#38 Lesson for Adding Date Dynamically with Builtin Javascript function
+#39 It is a good practice to keep your components small and focussed
+
+- All the Functions in React Starts with on, e.g., onClick,etc.
+- All the hooks in React starts with use, e.g., useState, etc.

@@ -1,0 +1,7 @@
+There was var to create variables in Javascript but with ES6 two new keywords let and const were introduced
+And it is now recommended to use let and const in place of var
+
+let = variable values
+const = const values, that you assign once but not change
+
+let and const are modern way of using var

@@ -1,0 +1,9 @@
+Normal Function Syntax
+function myFunc(){
+    ...
+}
+
+Arrow Function Syntax
+const myFunc = () => {
+    ...
+}
